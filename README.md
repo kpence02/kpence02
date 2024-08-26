@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kayla pence
 - 👀 I’m interested in cybersecurity :)
-- 🌱 I’m currently learning cybersecurity.
-- 💞️ I’m looking to collaborate on a security team.
+- 🌱 I’m currently learning cybersecurity
+- 💞️ I’m looking to collaborate on an awesome team to grow with
 - 📫 How to reach me pence.m.kayla@gmail.com
 
 <!---
